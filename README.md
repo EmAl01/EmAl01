@@ -1,21 +1,14 @@
-# Hi, I'm Emre 👋
-
+## Hi, I'm Emre 👋
 Software Developer passionate about **Linux systems, automation, and infrastructure engineering**.  
 I enjoy building real-world systems from scratch to deeply understand how they work under the hood.
 
----
-
-## Current Focus
-
+## Current Focus:
 - Building a distributed **AI Homelab** on Proxmox  
 - API design with FastAPI  
 - Containerized services and VM-based infrastructure  
 - Automation and system reliability  
 
----
-
-## Highlight Project
-
+## Last Project:
 ### DIY ZFS NAS Infrastructure
 Fully automated home NAS built on Proxmox with:
 
@@ -23,16 +16,12 @@ Fully automated home NAS built on Proxmox with:
 - Custom Bash backup orchestration
 - Logging & restore workflows
 - Network isolation & security hardening
-
 Tech stack:
 `Proxmox` · `ZFS` · `LXC` · `Ubuntu Server` · `Bash` · `Samba` · `Linux`
 
 → [View Project](https://github.com/EmAl01/home-nas-project)
 
----
-
-## Technical Stack
-
+## Technical Stack:
 **Backend**
 - Python
 - FastAPI
@@ -54,4 +43,5 @@ Tech stack:
 - Secure network design
 
 ---
+
 Feel free to connect via LinkedIn or email.
