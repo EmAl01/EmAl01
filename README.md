@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Emre 👋
 
-<!--
-**EmAl01/EmAl01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer passionate about **Linux systems, automation, and infrastructure engineering**.  
+I enjoy building real-world systems from scratch to deeply understand how they work under the hood.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Building a distributed **AI Homelab** on Proxmox  
+- API design with FastAPI  
+- Containerized services and VM-based infrastructure  
+- Automation and system reliability  
+
+---
+
+## Highlight Project
+
+### DIY ZFS NAS Infrastructure
+Fully automated home NAS built on Proxmox with:
+
+- ZFS snapshots & incremental replication
+- Custom Bash backup orchestration
+- Logging & restore workflows
+- Network isolation & security hardening
+
+Tech stack:
+`Proxmox` · `ZFS` · `LXC` · `Ubuntu Server` · `Bash` · `Samba` · `Linux`
+
+→ [View Project](https://github.com/EmAl01/home-nas-project)
+
+---
+
+## Technical Stack
+
+**Backend**
+- Python
+- FastAPI
+- REST APIs
+
+**Infrastructure & Systems**
+- Linux (advanced CLI usage)
+- Proxmox VE
+- Docker
+- LXC
+- ZFS
+- Bash scripting
+
+**Conceptual Knowledge**
+- Backup strategies (3-2-1 principle)
+- Virtualization
+- System isolation
+- Logging & observability
+- Secure network design
+
+---
+Feel free to connect via LinkedIn or email.
